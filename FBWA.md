@@ -16,7 +16,8 @@ Biarkan 100% lurus (linear), biar Pixhawk yang mengkalkulasi semuanya.
 
 * Kalibrasi Level (Sangat Krusial): Masuk ke Mandatory Hardware > Accel Calibration > Calibrate Level. Pastikan pesawat Werkudara diletakkan di lantai/meja yang 100% rata air saat diklik.
   Kalau kalibrasi levelnya miring, di mode FBWA pesawatmu akan terbang miring terus!
-  <img width="874" height="178" alt="image" src="https://github.com/user-attachments/assets/a4807da0-a484-4220-a56b-4f7373eac582" />
+
+   <img width="874" height="178" alt="image" src="https://github.com/user-attachments/assets/a4807da0-a484-4220-a56b-4f7373eac582" />
 * Atur Limit Sudut (Opsional tapi penting):Cari parameter.
     * ROLL_LIMIT_DEG = 45
     * PTCH_LIM_MAX_DEG = 25
